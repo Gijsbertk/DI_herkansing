@@ -1,0 +1,14 @@
+{
+	"Authors": "Gijsbert_Keja, Femke_Nijman, Kim_Bredenkamp",
+	"Tools": ["SNPeff", "Python"],
+	"Data_ophaal_datum": "12-07-2022",
+	"Patienten": ["PGPC-6", "PGPC-21", "PGPC-52"],
+	"Data_gedownload_van": "https://personalgenomes.ca/data",
+	"Database": "PostgreSQL",
+	"Server_IP_adres": "postgres.biocentre.nl",
+	"Server_gebruikersnaam": "DI_groep_2",
+	"Server_wachtwoord": "blaat1234",
+	"Naam_schema": "DI_groep_2",
+	"Data_toegevoegd_datum": "12-07-2022",
+}
+
