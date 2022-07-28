@@ -1,5 +1,5 @@
 # DI_herkansing
-herkansing van Data integratie github.
+Herkansing van Data integratie github.
 Deze applicatie fetcht data uit PDFs van patienten en annoteert VCF bestanden van patienten. Hierna vult de applicatie de opgehaalde informatie in, in een database. Als laatst haalt die concept IDs op, afkomend van Athena om deze weer te linken aan informatie opgehaald uit de PDFs en VCFs. 
 
 # Hoe gebruik je deze applicatie?
