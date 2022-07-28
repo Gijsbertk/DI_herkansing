@@ -1,5 +1,5 @@
 {
-	"Authors": "Gijsbert_Keja, Femke_Nijman, Kim_Bredenkamp",
+	"Auteurs": "Gijsbert_Keja, Femke_Nijman, Kim_Bredenkamp",
 	"Tools": ["SNPeff", "Python"],
 	"Data_ophaal_datum": "12-07-2022",
 	"Patienten": ["PGPC-6", "PGPC-21", "PGPC-52"],
