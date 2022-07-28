@@ -1,3 +1,6 @@
+# Femke Nijman
+# 12/07/22
+# Deze applicatie roept SNP_eff aan en gebruikt hiervoor VCF bestanden
 import subprocess, re
 
 def snpeff(snpeff_output_files):
