@@ -1,5 +1,5 @@
 # Gijsbert Keja, Femke Nijman en Kim Bredenkamp
-# 07/06/22
+# 12/07/22
 # Deze applicatie parst data en vult/fetcht data uit een database
 import psycopg2
 import tabula
