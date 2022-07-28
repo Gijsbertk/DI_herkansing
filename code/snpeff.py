@@ -1,4 +1,4 @@
-# Femke Nijman
+# Gijsbert Keja, Femke Nijman en Kim Bredenkamp
 # 12/07/22
 # Deze applicatie roept SNP_eff aan en gebruikt hiervoor VCF bestanden
 import subprocess, re
